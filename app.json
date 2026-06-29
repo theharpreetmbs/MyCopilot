@@ -1,0 +1,17 @@
+{
+  "id": "c1a0e4bb-5d3c-4a59-8d50-1e33d0baf001",
+  "name": "Posted Deferral Report",
+  "publisher": "theharpreetmbs",
+  "version": "1.0.0.0",
+  "brief": "Posted Deferral reporting extension",
+  "description": "Provides a report over Posted Deferral Header and Posted Deferral Line with filterable fields.",
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
+  "runtime": "14.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
